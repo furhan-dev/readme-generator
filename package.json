@@ -1,0 +1,25 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "node js script that helps a user generate a properly formatted README.md file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/furhan-dev/readme-generator.git"
+  },
+  "keywords": [
+    "readme"
+  ],
+  "author": "Furhan Samani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/furhan-dev/readme-generator/issues"
+  },
+  "homepage": "https://github.com/furhan-dev/readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
