@@ -1,4 +1,5 @@
 const inquirer = require('inquirer');
+const fs = require('fs');
 
 inquirer
     .prompt([
@@ -54,4 +55,18 @@ inquirer
         for (property in response) {
             console.log(`${property}: ${response[property]}`);
         }
+        fs.appendFile("test.md", title(response.title), err => {});
+        fs.appendFile("test.md", createSection("Description", response.desc), err => {});
+        fs.appendFile("test.md", toc(), err => {});
     });
+
+const title = t => `# ${t}\n\n`;
+const createSection = (section, content) => `## ${section}\n\n${content}\n\n\n`;
+const toc = () => {
+        return "- [Installation](#installation)\n"
+        + "- [Usage](#usage)\n"
+        + "- [License](#license)\n"
+        + "- [Contributing](#contributing)\n"
+        + "- [Tests](#tests)\n"
+        + "- [Questions](#questions)\n\n\n";
+}
