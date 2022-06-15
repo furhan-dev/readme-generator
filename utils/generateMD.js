@@ -48,7 +48,7 @@ ${answers.tests}
 This project is covered under the ${answers.license}
 
 ## Contact
-Email: ${answers.email}
+Email: ${answers.email}\n
 GitHub: ${answers.github}
 `;
 }
