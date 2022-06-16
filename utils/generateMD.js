@@ -30,7 +30,7 @@ ${answers.desc}
 * [Contribution](#Contribution)
 * [Tests](#Tests)
 * [License](#License)
-* [Contact](#Contact)
+* [Questions](#Questions)
 
 ## Installation
 ${answers.install}
@@ -47,9 +47,9 @@ ${answers.tests}
 ## License
 This project is covered under the ${answers.license}
 
-## Contact
-Email: ${answers.email}\n
-GitHub: ${answers.github}
+## Questions
+Email: [${answers.email}](${answers.email})\n
+GitHub: [${answers.github}](https://github.com/${ansers.github})
 `;
 }
 

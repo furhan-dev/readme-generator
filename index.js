@@ -75,8 +75,8 @@ promptUser()
     .then(res => {
         if (res.generate) {
             promptForReadmeInput()
-                .then(answers => fs.writeFileSync('README.md', generateMD(answers)))
-                .then(() => console.log('Succesfully generated README.md'))
+                .then(answers => fs.writeFileSync('./dist/README.md', generateMD(answers)))
+                .then(() => console.log(`Succesfully generated ${__dirname}/dist/README.md`))
         }
     })
     .catch((err) => console.error(err));
