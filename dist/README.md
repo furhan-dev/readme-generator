@@ -1,8 +1,8 @@
-# Super Secret Project
+# My Super Secret Project
 ![License Badge](https://img.shields.io/badge/License-MIT-green)
 
 ## Description
-I can't tell you because it's a secret
+This is a placeholder description because I can't tell you details about this super secret project!
 
 ## Table of Contents
 * [Installation](#Installation)
@@ -13,20 +13,20 @@ I can't tell you because it's a secret
 * [Questions](#Questions)
 
 ## Installation
-npm i
+`npm i`
 
 ## Usage
-node index.js
+`node index.js`
 
 ## Contribution
-Fork this repo, then create pull request to contribute changes.
+Fork then when you're ready to have your changes reviewed, create a pull request.
 
 ## Tests
-npm test
+`npm test`
 
 ## License
 This project is covered under the MIT License
 
 ## Questions
-Email: [contact@furhan.dev](contact@furhan.dev)
-GitHub: [furhan-dev](https://github.com/furhan-dev)
+* Email: [contact@furhan.dev](contact@furhan.dev)
+* GitHub: [furhan-dev](https://github.com/furhan-dev)

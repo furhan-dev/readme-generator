@@ -48,8 +48,8 @@ ${answers.tests}
 This project is covered under the ${answers.license}
 
 ## Questions
-Email: [${answers.email}](${answers.email})
-GitHub: [${answers.github}](https://github.com/${answers.github})
+* Email: [${answers.email}](${answers.email})
+* GitHub: [${answers.github}](https://github.com/${answers.github})
 `;
 }
 

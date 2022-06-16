@@ -30,6 +30,6 @@ No unit tests exist at the moment but in the future `npm test` will run all test
 This project is covered under the MIT License
 
 ## Questions
-Email: [contact@furhan.dev](contact@furhan.dev)
-GitHub: [furhan-dev](https://github.com/furhan-dev)
-Video Walkthrough: [Screencastify link](https://drive.google.com/file/d/1pre4oDRt-Sgp9TgNXaUwqGl6AzN5wBds/view)
+* Email: [contact@furhan.dev](contact@furhan.dev)
+* GitHub: [furhan-dev](https://github.com/furhan-dev)
+* Video Walkthrough: [Screencastify link](https://drive.google.com/file/d/1pre4oDRt-Sgp9TgNXaUwqGl6AzN5wBds/view)
