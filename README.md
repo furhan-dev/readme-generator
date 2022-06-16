@@ -4,6 +4,8 @@
 ## Description
 This NodeJs CLI tool generates a professional README file based on user input. The README contains a title, description, table of contents, installation instructions, usage guide, license badge and info, how to contribute section, tests, and a questions section.
 
+![screenshot](./assets/screenshot.png)
+
 ## Table of Contents
 * [Installation](#Installation)
 * [Usage](#Usage)
@@ -29,5 +31,5 @@ This project is covered under the MIT License
 
 ## Questions
 Email: [contact@furhan.dev](contact@furhan.dev)
-
 GitHub: [furhan-dev](https://github.com/furhan-dev)
+Video Walkthrough: [Screencastify link](https://drive.google.com/file/d/1pre4oDRt-Sgp9TgNXaUwqGl6AzN5wBds/view)
